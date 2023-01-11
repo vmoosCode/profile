@@ -1,0 +1,94 @@
+ADIB
+
+In my role as Senior Manager, Data Centers and Hardware, and Capacity Management at Abu Dhabi Islamic Bank - Egypt, 
+I was responsible for overseeing the operation, maintenance, and performance of the bank's data center infrastructure. 
+This included managing hardware, virtualization, and network resources to ensure high availability and performance of all IT services. 
+I was also responsible for capacity management, including planning and forecasting for future IT needs, and implementing best practices for data center management. 
+In this role, I had the opportunity to lead a team of IT professionals, and manage complex projects and vendor relationships. My key responsibilities were:
+
+Managing the Data Center operations, hardware, and virtualization
+Ensuring high availability, reliability and performance of IT services
+Responsible for capacity management, planning and forecasting for future IT needs
+Implementing best practices for data center management
+Leading a team of IT professionals
+Managing complex projects and vendor relationships
+This gives a good overview of the specific tasks and responsibilities you were handling in your role in Abu Dhabi Islamic Bank as senior manager Data center and Hardware.
+
+-Monitoring and maintaining data center infrastructure, including power, cooling, and security systems, to ensure optimal performance and reliability.
+
+- Overseeing the installation, configuration, and maintenance of hardware, including servers, storage, and network equipment.
+- Managing virtualization and cloud-based infrastructure, including VMware and other virtualization technologies.
+- Managing the day-to-day operations of the data center, including incident management, troubleshooting, and problem resolution.
+- Developing and implementing policies and procedures for data center operations, including disaster recovery and business continuity planning.
+- Managing vendor relationships and service level agreements, negotiating contracts and agreements with hardware and software vendors.
+- Implementing ITIL-based processes to provide IT services to internal customers and users.
+- Leading cross-functional teams to plan, design, and implement new projects and technologies.
+- Identifying and implementing strategies to improve data center efficiency and cost-effectiveness
+- Responsible for monitoring and reporting on the data center's capacity and performance and forecast future growth.
+- This details more about what your day-to-day tasks would be as a Senior Manager of Data center and Hardware in a bank , 
+- and it shows your hands-on approach in monitoring, managing and maintaining the data center infrastructure, virtualization, 
+- cloud-based infrastructure and ITIL based processes to provide IT services, and also your leadership skills in leading cross-functional teams, 
+negotiating with vendors and implement policies and procedures.
+
+
+
+
+TEDATA
+
+Summary:
+As a Data Center Consultant and Capacity Planning Administrator at TEDATA ISP, I was responsible for providing expert guidance and recommendations 
+on data center infrastructure and operations, as well as managing capacity planning for the organization. My key responsibilities included:
+-Acting as a technical consultant for data center infrastructure, including hardware, virtualization, and network resources.
+-Developing and implementing data center best practices and procedures for incident management, troubleshooting, and problem resolution.
+-Managing capacity planning for the organization, including forecasting future IT needs and developing strategies for cost-effective scaling.
+-Leading projects to design, implement and maintain data center infrastructure.
+-Ensuring the availability and performance of IT services by monitoring data center performance and troubleshooting issues.
+-Providing training and mentoring to data center and IT staff to improve their skills and knowledge.
+-Developing and maintaining documentation of data center infrastructure and procedures.
+
+This summary highlights your role as a Data Center Consultant and Capacity Planning Administrator and give a glimpse of what your day-to-day tasks would be, 
+it also highlights your expertise in data center infrastructure and operations, capacity planning, and ability to lead projects. 
+Also, your ability to provide training and mentoring to other team members and your skills to maintain and document data center infrastructure and procedures.
+
+
+
+RNS 
+As an Implementation Engineer at Raya Network Services, I was responsible for implementing data center projects and facilities,
+ as well as designing and implementing passive networks. Additionally, I also acted as a Presales Engineer, providing technical guidance and support during the sales process. 
+ 
+ My key responsibilities included:
+
+Designing, implementing, and maintaining data center projects and facilities
+Implementing passive network infrastructure
+Acting as a technical consultant in the presales process
+Providing technical guidance and support to sales teams
+Managing project delivery and ensure it meets customer requirements
+Developing and maintaining relationships with customers and vendors
+Communicating with customers to understand their technical requirements
+Troubleshooting and resolving technical issues as they arise
+This summary highlights your role as an Implementation Engineer and gives a glimpse of your responsibilities in this role in Raya Network Services, showing your expertise 
+in implementing data center projects, facilities and passive network infrastructure, and your skills in the pre-sales process, such as providing technical guidance, support 
+to sales teams, developing and maintaining relationships with customers and vendors, and communicating with customers to understand their technical requirements.
+
+
+Ericsson
+
+As an Acceptance Coordinator at Ericsson Egypt, I was responsible for coordinating between field engineers to inspect GSM BTS installations,
+ collecting snag lists from them and reviewing the lists to ensure compliance with Ericsson's installation standards for both telecom and facility installations. 
+ 
+ My key responsibilities included:
+
+Coordinating the efforts of 12 field engineers to inspect GSM BTS installations
+Collecting and reviewing snag lists from field engineers to ensure compliance with Ericsson's installation standards
+Inspecting both telecom and facility installations
+Identifying any non-compliance issues and escalating them as needed
+Communicating with customers and vendors to ensure smooth installation process
+Reviewing and validating installation documentation
+Ensuring the installation was completed to the customer's satisfaction
+Managing and monitoring the progress of the acceptance process
+
+
+This summary highlights your role as an Acceptance Coordinator at Ericsson Egypt, 
+and provides a snapshot of your main responsibilities and duties, such as coordinating field engineers, collecting and reviewing snag lists, 
+inspecting both telecom and facility installations, identifying non-compliance issues, communicating with customers and vendors, reviewing and validating installation
+ documentation and ensuring customer satisfaction, and managing and monitoring the acceptance process.
